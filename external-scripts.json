@@ -8,5 +8,6 @@
   "hubot-redis-brain",
   "hubot-plusplus",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-forecastio"
 ]
