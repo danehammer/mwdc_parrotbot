@@ -7,6 +7,7 @@
   "dependencies": {
     "clark": "0.0.6",
     "ddate": "^0.1.10",
+    "flip": "^1.0.0",
     "hubot": "^2.17.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-forecastio": ">= 1.0.0",

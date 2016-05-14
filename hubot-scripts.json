@@ -4,6 +4,7 @@
   "bees.coffee",
   "cowsay.coffee",
   "dice.coffee",
+  "flip.coffee",
   "meme_captain.coffee",
   "xkcd.coffee"
 ]
