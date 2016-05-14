@@ -6,5 +6,6 @@
   "dice.coffee",
   "flip.coffee",
   "meme_captain.coffee",
+  "reddit-jokes.coffee",
   "xkcd.coffee"
 ]
